@@ -1,0 +1,37 @@
+// Search in Rotated Sorted Array *
+// Minimum in Rotated Sorted Array *
+// Remove duplicates in sorted Array 
+// Remove duplicates in unsorted Array
+// Find Duplicates 
+// 2nd max *
+// Majority Element 
+// Leader in an Array
+// Rotate Array *
+// Sort 0,1,2 
+// Move Zeros to end *
+
+// Merge Interval
+// Count Platforms
+// Inversion of Array
+
+// 2Sum
+// 3Sum
+// 4Sum
+
+// Longest Substring Without repeat
+// longest increasing sequence
+// Set Matrix Zero
+// Spiral Matrix
+// Pascal Triangle
+// Next Permutation
+// Buy and Sell Stock I
+// Kadane's Algo
+// Trapping Rain Water
+
+// Subarray with sum k
+// Subarray with xor k
+// Product of array except itself 
+// All Sorting Algos [Bubble,Heap,Insertion,Selection,Merge,Quick] *{heap sort is remaining}
+
+// Rotate Image
+// Word Search
